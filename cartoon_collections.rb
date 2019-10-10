@@ -8,7 +8,7 @@ end
 
 def summon_captain_planet(calls)
   
-  calls.map!
+  calls.map! {|x| x.cap}
   
 end
 
