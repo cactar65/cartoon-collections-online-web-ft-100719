@@ -8,7 +8,8 @@ end
 
 def summon_captain_planet(calls)
   
-  calls.collect {||}
+  calls.
+  calls.collect {|x| x + !}
   
 end
 
